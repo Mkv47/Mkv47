@@ -3,8 +3,8 @@
 **Software Engineering Student** | 🖥️ Reverse Engineering & Memory Scanning Enthusiast
 
 ---
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username) 
-[![Medium](https://img.shields.io/badge/Medium-FFFFFF?style=for-the-badge&logo=medium&logoColor=black&labelColor=white)](https://medium.com/@Mohammed-Aldeewan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username) 
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=black&labelColor=white)](https://medium.com/@Mohammed-Aldeewan)
 ---
 
 ### 🔧 Projects I'm Building
