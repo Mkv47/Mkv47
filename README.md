@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohammed Al-deewan > (Mkv47)
+# 👋 Hi, I'm Mohammed Al-deewan
 
 **Software Engineering Student** | 🖥️ Reverse Engineering & Memory Scanning Enthusiast
 
