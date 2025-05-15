@@ -36,7 +36,7 @@
 
 - 📧 mohammedad.work@gmail.com
 - 🌐 [My LinkedIn](https://www.linkedin.com/in/mohammed-aldeewan/)
-<!-- - 🌐 [My Meduim](https://www.linkedin.com/in/mohammed-aldeewan/) -->
+- 🌐 [My Medium](https://medium.com/@Mohammed-Aldeewan/)
 
 ---
 
