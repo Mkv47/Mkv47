@@ -8,12 +8,6 @@
 
 ---
 
-### 🔧 Projects I'm Building
-
-- 🧠 [Memory Pattern Scanner](https://github.com/Mkv47/Memory_Pattern_Scanner) — C++ tool using Boyer-Moore to scan memory patterns
-
----
-
 ### 🧠 I’m Learning
 
 - Memory manipulation & pattern scanning in games  
@@ -35,13 +29,3 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
 ---
-
-### 📫 Reach Me
-
-- 📧 mohammedad.work@gmail.com
-
----
-
-### ⚡ Fun Fact
-
-> “I define the total energy of the universe in Planck units as **Zolk**.”
