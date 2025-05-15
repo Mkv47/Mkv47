@@ -7,15 +7,12 @@
 ### 🔧 Projects I'm Building
 
 - 🧠 [Memory Pattern Scanner](https://github.com/Mkv47/Memory_Pattern_Scanner) — C++ tool using Boyer-Moore to scan memory patterns
-- ⌛ [Reaction Time Website](https://github.com/Mkv47/Reaction-Time-Website) — Web app to test and improve reaction speed
-- ✅ [To Do List](https://github.com/Mkv47/To_Do_List) — A simple localStorage-based task manager
 
 ---
 
 ### 🧠 I’m Learning
 
 - Memory manipulation & pattern scanning in games  
-- Siemens PLC & industrial automation  
 - Advanced C++, low-level programming  
 - Cybersecurity & vulnerability analysis  
 
@@ -35,7 +32,7 @@
 ### 📫 Reach Me
 
 - 📧 mohammedad.work@gmail.com
-- 🌐 [My GitHub](https://github.com/Mkv47)
+- 🌐 [My LinkedIn](https://www.linkedin.com/in/mohammed-aldeewan/)
 
 ---
 
